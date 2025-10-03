@@ -1,0 +1,10 @@
+{
+    "name": "Bash History Launcher",
+    "description": "Bash history'deki komutları Ulauncher'dan çalıştır",
+    "version": "1.0",
+    "author": "Tolga",
+    "preferences": [],
+    "options": {},
+    "main": "main.py",
+    "license": "GPL-3.0"
+}
